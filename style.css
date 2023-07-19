@@ -27,7 +27,7 @@ body {
     height: 300px;
     margin-top: 25px;
     margin-bottom: 30px;
-    background-color:red;
+    background-color: red;
 }
 
 .Worksbanner{
@@ -35,7 +35,7 @@ body {
     height: 300px;
     margin-top: 25px;
     margin-bottom: 30px;
-    background-color:red;
+    background-color: red;
 }
 
 .Contactbanner{
@@ -43,13 +43,13 @@ body {
     height: 300px;
     margin-top: 25px;
     margin-bottom: 30px;
-    background-color:red;
+    background-color: red;
 
 
 .bannertext {
     display: grid;
     height: 210px;
-    color: black;
+    color: white;
     text-align: center;
     align-items: center;
     font-size: 35px;
