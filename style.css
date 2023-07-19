@@ -49,7 +49,7 @@ body {
 .bannertext {
     display: grid;
     height: 210px;
-    color: white;
+    color: black;
     text-align: center;
     align-items: center;
     font-size: 35px;
