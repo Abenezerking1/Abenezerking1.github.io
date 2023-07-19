@@ -15,28 +15,28 @@ body {
      height: 300px;
      margin-top: 25px;
      margin-bottom: 30px;
-     background-color: red;
+     background-color: #ff0000
 }
  .aboutbanner{
      display: grid;
      height: 300px;
      margin-top: 25px;
      margin-bottom: 30px;
-     background-color: red;
+     background-color: #ff0000
 }
  .portfoliobanner{
      display: grid;
      height: 300px;
      margin-top: 25px;
      margin-bottom: 30px;
-     background-color: red;
+     background-color: #ff0000
 }
  .contactbanner{
      display: grid;
      height: 300px;
      margin-top: 25px;
      margin-bottom: 30px;
-     background-color: red;
+     background-color: #ff0000
 }
  .bannertext {
      display: grid;
