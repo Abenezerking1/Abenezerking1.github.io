@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 body {
     background-color:#fff;
     margin: 20px;
@@ -94,3 +98,6 @@ button{
     display: inline-block;
     font-size: 16px;
   }
+    </head>
+</style>
+    </html>
