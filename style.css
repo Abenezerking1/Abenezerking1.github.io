@@ -14,7 +14,7 @@ body {
     padding: 0;
 }
 
-.homebanner{
+.Homebanner{
     display: grid;
     height: 300px;
     margin-top: 25px;
@@ -22,7 +22,7 @@ body {
     background-color: #3ba9ee
 }
 
-.aboutbanner{
+.Aboutbanner{
     display: grid;
     height: 300px;
     margin-top: 25px;
@@ -30,7 +30,7 @@ body {
     background-color: #3ba9ee
 }
 
-.portfoliobanner{
+.Worksbanner{
     display: grid;
     height: 300px;
     margin-top: 25px;
@@ -38,7 +38,7 @@ body {
     background-color: #3ba9ee
 }
 
-.contactbanner{
+.Contactbanner{
     display: grid;
     height: 300px;
     margin-top: 25px;
@@ -65,7 +65,7 @@ body {
     text-align: center;
 }
 
-.contactpagestuff {
+.Contactpagestuff {
     display: grid;
     width: 100%;
     justify-items: center;
@@ -73,7 +73,7 @@ body {
     grid-template-columns: repeat(2, 30%);
     grid-template-rows: repeat(5, 20%);
 }
-.contactform {
+.Contactform {
     display: grid;
     width: 100%;
     justify-self: center;
