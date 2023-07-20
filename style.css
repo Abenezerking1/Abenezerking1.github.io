@@ -10,28 +10,28 @@ body {
      margin: 0;
      padding: 0;
 }
- .homebanner{
+ .Homebanner{
      display: grid;
      height: 300px;
      margin-top: 25px;
      margin-bottom: 30px;
      background-color: #ff0000
 }
- .aboutbanner{
+ .Aboutbanner{
      display: grid;
      height: 300px;
      margin-top: 25px;
      margin-bottom: 30px;
      background-color: #ff0000
 }
- .portfoliobanner{
+ .Worksbanner{
      display: grid;
      height: 300px;
      margin-top: 25px;
      margin-bottom: 30px;
      background-color: #ff0000
 }
- .contactbanner{
+ .Contactbanner{
      display: grid;
      height: 300px;
      margin-top: 25px;
